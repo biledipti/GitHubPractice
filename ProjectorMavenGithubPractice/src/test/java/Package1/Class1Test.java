@@ -10,6 +10,7 @@ public class Class1Test {
 	private void class1() {
 		
 	Reporter.log("*********** hey prachi good afternoon********",true);
+	Reporter.log("*********** hey prachi good afternoon********",true);
 	}
 
 }
